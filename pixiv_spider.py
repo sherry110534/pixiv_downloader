@@ -113,7 +113,7 @@ class pixiv():
         
 
 if __name__ == '__main__':
-    pixiv = pixiv('sherry110534@gmail.com', 's003668110534')
+    pixiv = pixiv('yourname', 'yourpassword')
     path = os.path.join(os.getcwd(), 'download')
     bookmarks = 10000
     count = 20
